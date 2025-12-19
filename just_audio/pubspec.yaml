@@ -23,7 +23,7 @@ dependencies:
 
   audio_session:
     git:
-      url: https://github.com/huynn0105/audio_session
+      url: https://github.com/Ray-1bit/audio_session
 
   rxdart: '>=0.26.0 <0.29.0'
   path: ^1.8.0
